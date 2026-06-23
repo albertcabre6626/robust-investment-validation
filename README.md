@@ -27,7 +27,6 @@ The code is organized into six blocks:
 ```text
 .
 ├── appendix_code/
-│   ├── original_colab_exports/   # direct public exports from the appendix/Colab
 │   └── clean_python/             # portable Python versions with Colab commands commented
 ├── notebooks/                    # GitHub-renderable notebooks for each block
 ├── docs/                         # thesis summary, module map and usage notes
