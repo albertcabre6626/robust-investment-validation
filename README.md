@@ -43,7 +43,7 @@ The code is organized into six blocks:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/robust-investment-validation.git
+git clone https://github.com/albertcabre6626/robust-investment-validation.git
 cd robust-investment-validation
 ```
 
