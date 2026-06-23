@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+requests
+beautifulsoup4
+lxml
+html5lib
+yfinance
+scipy
+statsmodels
+openai

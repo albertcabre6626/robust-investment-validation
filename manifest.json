@@ -1,0 +1,77 @@
+[
+  {
+    "module": "C0_common_backtesting_engine",
+    "title": "Common data, backtesting and metrics engine",
+    "original_file": "appendix_code/original_colab_exports/C0_common_backtesting_engine.py",
+    "clean_python": "appendix_code/clean_python/C0_common_backtesting_engine.py",
+    "notebook": "notebooks/C0_common_backtesting_engine.ipynb",
+    "source_uploaded_name": "block0_backtest_colab.py",
+    "size_bytes": 59075
+  },
+  {
+    "module": "C1_technical_indicators",
+    "title": "Classical technical indicators",
+    "original_file": "appendix_code/original_colab_exports/C1_technical_indicators.py",
+    "clean_python": "appendix_code/clean_python/C1_technical_indicators.py",
+    "notebook": "notebooks/C1_technical_indicators.ipynb",
+    "source_uploaded_name": "block1.py",
+    "size_bytes": 123391
+  },
+  {
+    "module": "C2_language_models_synthetic_signals",
+    "title": "Language models and synthetic signal detection",
+    "original_file": "appendix_code/original_colab_exports/C2_language_models_synthetic_signals.py",
+    "clean_python": "appendix_code/clean_python/C2_language_models_synthetic_signals.py",
+    "notebook": "notebooks/C2_language_models_synthetic_signals.ipynb",
+    "source_uploaded_name": "block2.py",
+    "size_bytes": 13943
+  },
+  {
+    "module": "C3_genetic_algorithm_multiple_testing",
+    "title": "Genetic algorithms and multiple-testing correction",
+    "original_file": "appendix_code/original_colab_exports/C3_genetic_algorithm_multiple_testing.py",
+    "clean_python": "appendix_code/clean_python/C3_genetic_algorithm_multiple_testing.py",
+    "notebook": "notebooks/C3_genetic_algorithm_multiple_testing.ipynb",
+    "source_uploaded_name": "block3.py",
+    "size_bytes": 151039
+  },
+  {
+    "module": "C4_markowitz_portfolio_optimization",
+    "title": "Markowitz portfolio optimization",
+    "original_file": "appendix_code/original_colab_exports/C4_markowitz_portfolio_optimization.py",
+    "clean_python": "appendix_code/clean_python/C4_markowitz_portfolio_optimization.py",
+    "notebook": "notebooks/C4_markowitz_portfolio_optimization.ipynb",
+    "source_uploaded_name": "block4.py",
+    "size_bytes": 109501
+  },
+  {
+    "module": "C5_public_proprietary_strategy",
+    "title": "Public/censored proprietary-strategy evaluation",
+    "original_file": "appendix_code/original_colab_exports/C5_public_proprietary_strategy.py",
+    "clean_python": "appendix_code/clean_python/C5_public_proprietary_strategy.py",
+    "notebook": "notebooks/C5_public_proprietary_strategy.ipynb",
+    "source_uploaded_name": "block5_public(2).py",
+    "size_bytes": 78278
+  },
+  {
+    "file": "data/C5_public_returns.csv",
+    "purpose": "Input data for public/censored Module C5",
+    "rows": 1255,
+    "columns": [
+      "Date",
+      "C5_alpha_0.1",
+      "C5_alpha_0.2",
+      "C5_alpha_0.3",
+      "C5_alpha_0.4",
+      "C5_alpha_0.5",
+      "C5_alpha_0.6",
+      "C5_alpha_0.7",
+      "C5_alpha_0.8",
+      "C5_alpha_0.9",
+      "C5_alpha_1.0",
+      "Buy&Hold",
+      "Benchmark"
+    ],
+    "size_bytes": 305405
+  }
+]

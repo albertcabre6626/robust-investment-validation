@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Robust Investment Strategy Validation"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - family-names: "Cabré Carrera"
+    given-names: "Albert"
+year: 2026
+repository-code: "https://github.com/YOUR_USERNAME/robust-investment-validation"
+abstract: "Public code repository for a Bachelor's Thesis on robust evaluation of investment strategies: backtesting, overfitting and statistical validation."
+keywords:
+  - quantitative finance
+  - backtesting
+  - bootstrap
+  - White's Reality Check
+  - Markowitz
+  - factor models
+license: MIT
